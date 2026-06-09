@@ -1,7 +1,26 @@
 {
-  "id": "gloob.br",
-  "titulo": "GLOOB HD",
-  "logo": "https://logos.imperioapps.top/GLOOB.png",
-  "categoria": "Infantil",
-  "play": "http://cb6.fun:80/live/9838832754/2290227520/152311.m3u8"
+  "provider": "Nexus RPTV",
+  "last_updated": "2026-06-09",
+  "categories": [
+    {
+      "name": "Infantil",
+      "channels": [
+        {
+          "id": "gloob.br",
+          "title": "GLOOB HD",
+          "logo": "https://logos.imperioapps.top/GLOOB.png",
+          "url": "http://cb6.fun:80/live/9838832754/2290227520/152311.m3u8",
+          "format": "hls"
+        }
+      ]
+    },
+    {
+      "name": "Esportes",
+      "channels": []
+    },
+    {
+      "name": "Filmes e Séries",
+      "channels": []
+    }
+  ]
 }
